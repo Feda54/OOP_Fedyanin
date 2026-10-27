@@ -137,7 +137,6 @@ namespace _27._10._26
                 + lastThreeLetterName.Name + ", "
                 + lastThreeLetterName.Age);
 
-            Console.WriteLine("\nВсе задания выполнены.");
             Console.ReadKey();
         }
     }
